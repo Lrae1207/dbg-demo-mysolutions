@@ -1,4 +1,5 @@
 crackme_0x01: 5274
-On instruction 00401365, the value taken from scanf is compared to the value 0x1498. The following instruction 00401365 checks if the entered number and the code are equal and jumps to the segment where "Password OK :)\n" is printed
+On instruction 00401365, the value taken from scanf is compared to the value 0x1498. 
+The following instruction 00401365 checks if the entered number and the code are equal and jumps to the segment where "Password OK :)\n" is printed
 
 crackme_0x02: 
